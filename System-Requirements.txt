@@ -1,0 +1,10 @@
+Gigabytes of RAM for best results: 2+ Gigabytes
+
+Version of Python: Python 3 
+
+Runs on Raspberry Pi? Yes
+
+Authentication file in same folder needed? Yes
+
+
+
